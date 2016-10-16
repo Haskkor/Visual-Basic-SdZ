@@ -1,0 +1,22 @@
+C:\Users\Haskkor\AppData\Local\Temporary Projects\Test Arborescence\bin\Debug\Test Arborescence.exe
+C:\Users\Haskkor\AppData\Local\Temporary Projects\Test Arborescence\bin\Debug\Test Arborescence.pdb
+C:\Users\Haskkor\AppData\Local\Temporary Projects\Test Arborescence\bin\Debug\Test Arborescence.xml
+C:\Users\Haskkor\AppData\Local\Temporary Projects\Test Arborescence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haskkor\AppData\Local\Temporary Projects\Test Arborescence\obj\x86\Debug\Test_Arborescence.Form1.resources
+C:\Users\Haskkor\AppData\Local\Temporary Projects\Test Arborescence\obj\x86\Debug\Test_Arborescence.Resources.resources
+C:\Users\Haskkor\AppData\Local\Temporary Projects\Test Arborescence\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Haskkor\AppData\Local\Temporary Projects\Test Arborescence\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Haskkor\AppData\Local\Temporary Projects\Test Arborescence\obj\x86\Debug\Test Arborescence.exe
+C:\Users\Haskkor\AppData\Local\Temporary Projects\Test Arborescence\obj\x86\Debug\Test Arborescence.xml
+C:\Users\Haskkor\AppData\Local\Temporary Projects\Test Arborescence\obj\x86\Debug\Test Arborescence.pdb
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Test Arborescence\Test Arborescence\obj\x86\Debug\Test Arborescence.exe
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Test Arborescence\Test Arborescence\obj\x86\Debug\Test Arborescence.xml
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Test Arborescence\Test Arborescence\obj\x86\Debug\Test Arborescence.pdb
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Arborescence\Test Arborescence\bin\Debug\Test Arborescence.exe
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Arborescence\Test Arborescence\bin\Debug\Test Arborescence.pdb
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Arborescence\Test Arborescence\bin\Debug\Test Arborescence.xml
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Arborescence\Test Arborescence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Arborescence\Test Arborescence\obj\x86\Debug\Test_Arborescence.Form1.resources
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Arborescence\Test Arborescence\obj\x86\Debug\Test_Arborescence.Resources.resources
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Arborescence\Test Arborescence\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Arborescence\Test Arborescence\obj\x86\Debug\GenerateResource.write.1.tlog

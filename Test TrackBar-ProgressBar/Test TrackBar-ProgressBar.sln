@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Test TrackBar-ProgressBar", "Test TrackBar-ProgressBar\Test TrackBar-ProgressBar.vbproj", "{79DC1867-63BA-481C-9996-7B0F097371C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79DC1867-63BA-481C-9996-7B0F097371C5}.Debug|x86.ActiveCfg = Debug|x86
+		{79DC1867-63BA-481C-9996-7B0F097371C5}.Debug|x86.Build.0 = Debug|x86
+		{79DC1867-63BA-481C-9996-7B0F097371C5}.Release|x86.ActiveCfg = Release|x86
+		{79DC1867-63BA-481C-9996-7B0F097371C5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

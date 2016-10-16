@@ -1,0 +1,12 @@
+C:\Users\Haskkor\AppData\Local\Temporary Projects\FenetresSupplementaires\bin\Debug\FenetresSupplementaires.exe
+C:\Users\Haskkor\AppData\Local\Temporary Projects\FenetresSupplementaires\bin\Debug\FenetresSupplementaires.pdb
+C:\Users\Haskkor\AppData\Local\Temporary Projects\FenetresSupplementaires\bin\Debug\FenetresSupplementaires.xml
+C:\Users\Haskkor\AppData\Local\Temporary Projects\FenetresSupplementaires\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haskkor\AppData\Local\Temporary Projects\FenetresSupplementaires\obj\x86\Debug\FenetresSupplementaires.Main.resources
+C:\Users\Haskkor\AppData\Local\Temporary Projects\FenetresSupplementaires\obj\x86\Debug\FenetresSupplementaires.Resources.resources
+C:\Users\Haskkor\AppData\Local\Temporary Projects\FenetresSupplementaires\obj\x86\Debug\FenetresSupplementaires.Secondary.resources
+C:\Users\Haskkor\AppData\Local\Temporary Projects\FenetresSupplementaires\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Haskkor\AppData\Local\Temporary Projects\FenetresSupplementaires\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Haskkor\AppData\Local\Temporary Projects\FenetresSupplementaires\obj\x86\Debug\FenetresSupplementaires.exe
+C:\Users\Haskkor\AppData\Local\Temporary Projects\FenetresSupplementaires\obj\x86\Debug\FenetresSupplementaires.xml
+C:\Users\Haskkor\AppData\Local\Temporary Projects\FenetresSupplementaires\obj\x86\Debug\FenetresSupplementaires.pdb

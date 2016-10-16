@@ -1,0 +1,11 @@
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Calcul Voyage\Calcul Voyage\bin\Debug\Calcul Voyage.exe
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Calcul Voyage\Calcul Voyage\bin\Debug\Calcul Voyage.pdb
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Calcul Voyage\Calcul Voyage\bin\Debug\Calcul Voyage.xml
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Calcul Voyage\Calcul Voyage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Calcul Voyage\Calcul Voyage\obj\x86\Debug\WindowsApplication1.CalculVoyage.resources
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Calcul Voyage\Calcul Voyage\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Calcul Voyage\Calcul Voyage\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Calcul Voyage\Calcul Voyage\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Calcul Voyage\Calcul Voyage\obj\x86\Debug\Calcul Voyage.exe
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Calcul Voyage\Calcul Voyage\obj\x86\Debug\Calcul Voyage.xml
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Calcul Voyage\Calcul Voyage\obj\x86\Debug\Calcul Voyage.pdb

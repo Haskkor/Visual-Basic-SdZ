@@ -1,0 +1,11 @@
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Navigateur Web\Navigateur Web\bin\Debug\Navigateur Web.exe
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Navigateur Web\Navigateur Web\bin\Debug\Navigateur Web.pdb
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Navigateur Web\Navigateur Web\bin\Debug\Navigateur Web.xml
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Navigateur Web\Navigateur Web\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Navigateur Web\Navigateur Web\obj\x86\Debug\WindowsApplication1.Fenêtre.resources
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Navigateur Web\Navigateur Web\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Navigateur Web\Navigateur Web\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Navigateur Web\Navigateur Web\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Navigateur Web\Navigateur Web\obj\x86\Debug\Navigateur Web.exe
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Navigateur Web\Navigateur Web\obj\x86\Debug\Navigateur Web.xml
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Navigateur Web\Navigateur Web\obj\x86\Debug\Navigateur Web.pdb

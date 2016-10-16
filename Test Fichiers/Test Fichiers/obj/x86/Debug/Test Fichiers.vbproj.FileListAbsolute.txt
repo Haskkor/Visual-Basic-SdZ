@@ -1,0 +1,11 @@
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Fichiers\Test Fichiers\bin\Debug\Test Fichiers.exe
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Fichiers\Test Fichiers\bin\Debug\Test Fichiers.pdb
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Fichiers\Test Fichiers\bin\Debug\Test Fichiers.xml
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Fichiers\Test Fichiers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Fichiers\Test Fichiers\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Fichiers\Test Fichiers\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Fichiers\Test Fichiers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Fichiers\Test Fichiers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Fichiers\Test Fichiers\obj\x86\Debug\Test Fichiers.exe
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Fichiers\Test Fichiers\obj\x86\Debug\Test Fichiers.xml
+C:\Users\Haskkor\Documents\Visual Studio 2010\Projects\Test Fichiers\Test Fichiers\obj\x86\Debug\Test Fichiers.pdb

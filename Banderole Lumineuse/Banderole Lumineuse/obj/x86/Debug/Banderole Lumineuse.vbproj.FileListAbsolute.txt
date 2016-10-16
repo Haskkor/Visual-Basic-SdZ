@@ -1,0 +1,11 @@
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Banderole Lumineuse\Banderole Lumineuse\bin\Debug\Banderole Lumineuse.exe
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Banderole Lumineuse\Banderole Lumineuse\bin\Debug\Banderole Lumineuse.pdb
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Banderole Lumineuse\Banderole Lumineuse\bin\Debug\Banderole Lumineuse.xml
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Banderole Lumineuse\Banderole Lumineuse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Banderole Lumineuse\Banderole Lumineuse\obj\x86\Debug\WindowsApplication1.Banderole.resources
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Banderole Lumineuse\Banderole Lumineuse\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Banderole Lumineuse\Banderole Lumineuse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Banderole Lumineuse\Banderole Lumineuse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Banderole Lumineuse\Banderole Lumineuse\obj\x86\Debug\Banderole Lumineuse.exe
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Banderole Lumineuse\Banderole Lumineuse\obj\x86\Debug\Banderole Lumineuse.xml
+C:\Users\Haskkor\documents\visual studio 2010\Projects\Banderole Lumineuse\Banderole Lumineuse\obj\x86\Debug\Banderole Lumineuse.pdb
